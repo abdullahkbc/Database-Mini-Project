@@ -1,0 +1,55 @@
+#main-page{
+    background: linear-gradient(135deg, #4cb7e8, #111d45);
+    height:870px;
+}
+
+#middle{
+    background-color:#FF5000;
+    position:absolute;
+    top:60px;
+    left:60px;
+    width:1340px;
+    height:750px;
+    box-shadow: 8px 8px 8px 8px rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+#nav{
+    border-bottom:1px solid grey;
+    text-transform:capitalize;
+}
+
+#name{
+    margin-top:15px;
+    margin-left:95px;
+}
+
+#graphs{
+    background-image: linear-gradient(to right, #4481c5, #FF00FF);
+    height:300px;
+}
+
+#first-middle{
+    color:white;
+}
+
+#first{
+    border-bottom:1px solid #4cb7e8;
+    height:150px;
+    padding-top:30px;
+}
+
+#second{
+    padding-top:30px;
+}
+
+#second-middle{
+    color:white;
+}
+
+#add-1, #update-1, #delete-1, #show-1{
+    background-color:#4cb7e8;
+}
+#add-1, #update-1, #show-1{
+    margin-right:20px;
+}
